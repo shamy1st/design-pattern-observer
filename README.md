@@ -1,4 +1,4 @@
-# Observer Design Pattern (Java Implementation)
+# Observer Design Pattern (Java)
 
 **Observer** object notify observers when its state changes.
 ![](https://github.com/shamy1st/design-pattern-observer-java/blob/main/observer-uml.png)
