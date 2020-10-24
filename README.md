@@ -1,7 +1,7 @@
 # Observer Design Pattern (Java)
 
 **Observer** object notify observers when its state changes.
-![](https://github.com/shamy1st/design-pattern-observer-java/blob/main/observer-uml.png)
+![](https://github.com/shamy1st/design-pattern-observer/blob/main/uml.png)
 ### Problem: 
 You have **DataSource** and when its value change you should notify **Chart** to redraw and **SpreadSheet** to recalculate.
 
@@ -25,4 +25,4 @@ You have **DataSource** and when its value change you should notify **Chart** to
 
     }
 ### Solution:
-![](https://github.com/shamy1st/design-pattern-observer-java/blob/main/observer-solution-uml.png)
+![](https://github.com/shamy1st/design-pattern-observer/blob/main/uml-solution.png)
